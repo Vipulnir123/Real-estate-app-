@@ -13,10 +13,10 @@ function HomePage() {
         <div className="wrapper">
           <h1 className="title">Find Real Estate & Get Your Dream Place</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos
-            explicabo suscipit cum eius, iure est nulla animi consequatur
-            facilis id pariatur fugit quos laudantium temporibus dolor ea
-            repellat provident impedit!
+            We have over 2000+ properties ready to move in. We provide full
+            service at every step of your home buying journey. We are here to help you find the perfect home for you and your family. We are here to
+            help you find the perfect home for you and your family. We are here
+            to help you find the perfect home for you and your family.
           </p>
           <SearchBar />
           <div className="boxes">
