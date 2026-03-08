@@ -18,7 +18,7 @@ const app = express();
 
 // Middleware
 const corsOptions = {
-  origin: 'https://your-frontend-app.vercel.app', // Replace with your Vercel URL
+  origin: 'http://localhost:5173', // Replace with your Vercel URL
   methods: 'GET,POST,PUT,DELETE', // Allow only specific methods as per your needs
   credentials: true, // Include cookies if needed for session handling
 };
